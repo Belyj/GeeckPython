@@ -1,5 +1,8 @@
 from sys import argv
 
+worked_hours = None
+payment_for_hour = None
+work_prize = None
 try:
     file, worked_hours, payment_for_hour, work_prize = argv
 except ValueError:
