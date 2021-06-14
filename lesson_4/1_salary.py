@@ -20,4 +20,4 @@ def salary_calculating(hours, payment, prize):
         print('Отработанные часы должны быть числом')
 
 
-print(worked_hours, payment_for_hour, work_prize)
+print(salary_calculating(worked_hours, payment_for_hour, work_prize))

@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0474fb2c-cda7-4d00-b456-3b82ac9958f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_4/1_salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/2_array_of_biggest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/3_multiplicity_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/4_set_of_nums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/5_reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/6_iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/7_fact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/3_changeOfSeasons_byList.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/3_changeOfSeasons_byList.py" afterDir="false" />
-    </list>
+    <list default="true" id="0474fb2c-cda7-4d00-b456-3b82ac9958f8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson_4/7_fact.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -336,21 +326,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32996973" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32996973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32996973" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32996973" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32996973" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -517,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_4/7_fact.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
