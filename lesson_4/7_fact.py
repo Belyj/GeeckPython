@@ -7,10 +7,10 @@ def fact(n):
     return res
 
 
-def gen_fact():
-    for el in fact(4):
+def gen_fact(n):
+    for el in fact(n):
         yield el
 
 
-a = gen_fact()
+a = gen_fact(4)
 print(a)
