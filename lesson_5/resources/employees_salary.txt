@@ -1,0 +1,10 @@
+Ivanov 23543.12
+Petrov 13749.32
+Sidorov 15900.00
+Kalugin 24000.24
+Ostapov 19900.99
+Lebovski 0.00
+Blake 33033.66
+Stakhanov 27000.19
+Antropov 29156.04
+Bekmambedov 10454.89
