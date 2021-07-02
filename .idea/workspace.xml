@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/lesson_8/1_Date.py" line="25" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0474fb2c-cda7-4d00-b456-3b82ac9958f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_7/1_Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_7/2_Clother.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_7/3_Cell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_7/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/1_Date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/2_ZeroException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/3_VvodChisel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/4_OfficeEquipmentStore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -17,11 +21,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_7/1_Matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="400">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson_8/1_Date.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson_8/2_ZeroException.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson_8/3_VvodChisel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson_8/4_OfficeEquipmentStore.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmEdu2018.3/system/python_stubs/-991083293/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114780">
+              <caret line="5739" column="6" selection-start-line="5739" selection-start-column="6" selection-end-line="5739" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -30,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/lesson_7/2_Clother.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="780">
-              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -38,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_7/3_Cell.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            <state relative-caret-position="720">
+              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -59,6 +108,8 @@
       <find>random</find>
       <find>range</find>
       <find>i_list</find>
+      <find>Except</find>
+      <find>input</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Работы\GeekBrains\GeeckPython</dir>
@@ -107,6 +158,10 @@
         <option value="$PROJECT_DIR$/lesson_7/2_Clother.py" />
         <option value="$PROJECT_DIR$/lesson_7/3_Cell.py" />
         <option value="$PROJECT_DIR$/lesson_7/1_Matrix.py" />
+        <option value="$PROJECT_DIR$/lesson_8/Date.py" />
+        <option value="$PROJECT_DIR$/lesson_8/2_ZeroException.py" />
+        <option value="$PROJECT_DIR$/lesson_8/3_VvodChisel.py" />
+        <option value="$PROJECT_DIR$/lesson_8/4_OfficeEquipmentStore.py" />
       </list>
     </option>
   </component>
@@ -130,7 +185,7 @@
             <path>
               <item name="GeeckPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="GeeckPython" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_7" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1_Matrix">
+  <component name="RunManager" selected="Python.4_OfficeEquipmentStore">
     <configuration name="1_Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GeeckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,27 +230,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/1_Matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1_Matrixx" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GeeckPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/1_Matrixx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_Clother" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_ZeroException" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GeeckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,11 +267,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/2_Clother.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/2_ZeroException.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_Cell" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_VvodChisel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GeeckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +288,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/3_Cell.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/3_VvodChisel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_Stationary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_OfficeEquipmentStore" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GeeckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +309,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/6_Stationary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/4_OfficeEquipmentStore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Date" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GeeckPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Работы\GeekBrains\GeeckPython\lesson_8\1_Date.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4_OfficeEquipmentStore" />
+        <item itemvalue="Python.3_VvodChisel" />
+        <item itemvalue="Python.2_ZeroException" />
+        <item itemvalue="Python.Date" />
         <item itemvalue="Python.1_Matrix" />
-        <item itemvalue="Python.3_Cell" />
-        <item itemvalue="Python.2_Clother" />
-        <item itemvalue="Python.1_Matrixx" />
-        <item itemvalue="Python.6_Stationary" />
       </list>
     </recent_temporary>
   </component>
@@ -362,13 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu2018.3/system/python_stubs/-991083293/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="360" column="32" selection-start-line="360" selection-start-column="32" selection-end-line="360" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson_4/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -422,9 +470,6 @@
           <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_3/5_numbers.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_5/num_list.txt" />
     <entry file="file://$PROJECT_DIR$/lesson_5/resources/num_list.txt" />
@@ -531,31 +576,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_7/1_Matrixx.py">
+    <entry file="file://$PROJECT_DIR$/lesson_7/1_Matrixx.py" />
+    <entry file="file://$PROJECT_DIR$/lesson_7/1_Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="400">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_8/1_Date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_3/5_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmEdu2018.3/system/python_stubs/-991083293/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114780">
+          <caret line="5739" column="6" selection-start-line="5739" selection-start-column="6" selection-end-line="5739" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_7/2_Clother.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
-          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_7/3_Cell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        <state relative-caret-position="720">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_7/1_Matrix.py">
+    <entry file="file://$PROJECT_DIR$/lesson_8/2_ZeroException.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_8/3_VvodChisel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_8/4_OfficeEquipmentStore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
         </state>
       </provider>
     </entry>
